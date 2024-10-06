@@ -13,4 +13,8 @@ Le système d'arrosage utilise les éléments suivants:
 - Noeud X : Contrôleur d'arrosage du côté de la rue : ESP32 - ESPNOW avec noeud 1;
 - Noeud X : Contrôleur d'arrosage du côté de la cour : ESP32 - ESPNOW avec noeud 1;
 - Noeud X : Débitmètre mesurant l'arrosage du côté de la rue : ESP32 - ESPNOW avec noeud 1;
-- Noeud X : Débitmètre mesurant l'arrosage du côté de la cour : ESP32 - ESPNOW avec noeud 1;
+- Noeud X : Débitmètre mesurant l'arrosage du côté de la cour : ESP32 - ESPNOW avec noeud 1.
+
+Intégré à ce système, on retrouve quelques capteurs (communicants avec le noeud 1):
+- Noeud C : Pluviomètre;
+- Noeud C : Capteur de température extérieure.
