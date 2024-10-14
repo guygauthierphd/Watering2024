@@ -20,4 +20,5 @@ Intégré à ce système, on retrouve quelques capteurs (communicants avec le no
 - Noeud C : Capteur de température extérieure.
 
 
-Source du code : les codes en C++ utilisés par les ESP8266 sont inspirés du projet Farm-Data-Relay-System de Timm Bogner (https://github.com/timmbogner/Farm-Data-Relay-System).
+<u>Source du code : </u> les codes en C++ utilisés par les ESP32 et les ESP8266 sont inspirés du projet 
+Farm-Data-Relay-System de Timm Bogner (https://github.com/timmbogner/Farm-Data-Relay-System).
